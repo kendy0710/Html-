@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+
+<html>
+<head>
+  <meta charset ="UTF - 8">
+  <title>Curriculum Vitae - Kendy López</title>
+</head>
+<body>    
+  <h1>Curriculum vitae</h1>
+  <h2>Kendy López Sánchez</p>
+  <!-- foto -->
+  <img src = "Foto.jpg" width = "200"height = "200" alt = "Foto de Kendy López">
+    <h3>Sobre mí</h3>
+    <p>Soy estudiante de informática, responsable y con muchos deseos de superación. Me gusta aprrender sobre diseño web y tecnología</p>
+    <h3>Redes Sociales</h3>
+  <ul>
+    <li><a href=://www.Facebook.com"target="_blank">Facebook</a></li>
+    <li><a href=://www.Instragram.com"target="_blank>Instagram</a></li>
+  </ul>
+    <h3>Imagen que funciona como enlace</h3>
+    <a href="https://www.youtube.com"target="_blank">
+      <img src"youtube.png"Width="100"alt="Ir a Youtube">
+    </a>
+    <h3>Tareas Realizadas</h3>
+    <h3>Tareas hechas en casa</h3>
+    <ul>
+      <li><a href="# 1">Cuadro sinóptico HTML</a></li>
+      <li><a href="# 2">Una Página Web</a></li>
+    </ul>
+    <h3>Trabajos hechas en clase</h3>
+    <ul>
+      <li><a href="# 1">Enlaces en HTML</a></li>
+      <li><a href="# 2">Etiquetas principales de HTML</a></li>
+    </ul>
+  </body>
+  </html>
+ 
+
+
+
+
+
+
