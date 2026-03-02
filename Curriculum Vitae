@@ -8,7 +8,7 @@
 <body>    
   <h1>Curriculum vitae</h1>
   <h2>Kendy López Sánchez</p>
-  <!-- foto -->
+  <!-- foto-->
   <img src = "Foto.jpg" width = "200"height = "200" alt = "Foto de Kendy López">
     <h3>Sobre mí</h3>
     <p>Soy estudiante de informática, responsable y con muchos deseos de superación. Me gusta aprrender sobre diseño web y tecnología</p>
