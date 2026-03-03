@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Mi Página de Intereses</title>
+</head>
+<body>
+      <h1>Pasatiempos y mis actividades</h1>
+      <h2>Comidas favoritas</h2>
+      <ul>
+         <li>Me gusta escuchar música</li>
+         <li>Ver películas</li>
+         <li>Programar en diseño web</li>
+      </ul>
+      <h2>Comidas favoritas</h2>
+      <ol>
+         <li>La pizza</li>
+         <li>El pollo frito</li>
+         <li>Tajadas de platanos</li>
+      </ol>
+</body>
+</html>
