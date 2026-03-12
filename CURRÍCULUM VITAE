@@ -1,0 +1,38 @@
+ html>
+
+<html>
+<head>
+  <meta charset ="UTF - 8">
+  <title>Curriculum Vitae</title>
+</head>
+<body style="background-color:green;"Curriculum Vitae>
+  <h1 style="color:blue;">Curriculum vitae</h1>
+  <p style="font-family: Serif;"></p>
+  <h2 style="color: brown;">Kendy López Sánchez</h2>
+  <img src = "Foto.jpg" width = "200"height = "200" alt = "Foto de Kendy López">
+    <h3 style="color: pink;">Sobre mí</h3>
+    <p style="color: black;">Soy estudiante de informática, responsable y con  muchos deseos de superacion. Me gusta aprender sobre diseño web y tecnologia</p>
+  <h3 style="color: Yellow;Sobre mi
+    
+  <ul>
+    <li><a href="https://www.facebook.com"target="_blank">Facebook</a></li>
+    <li><a href="https://www.Instagram.com"target="_blank">Instagram</a></li>
+  </ul>
+  <h3 style="color: pink;">Imagen que funciona como enlace</h3>
+  <a href="https://www.youtube.com"target="_blank">
+    <img src"youtube.png"width="100"alt="Ir a Youtube">
+  </a>
+  <h3 style="color: red;">Tareas Realizadas</h3>
+  <ul>
+    <li><a href="# 1">Cuadro Sinoptico HTMl</a></li>
+    <li><a href="# 2">Una Pagina Web</a></li>
+    <li><a href="# 3">Mi Pagina de Intereses</a></li>
+  </ul> 
+  <h3 style="color: purple;">Trabajos hechas en clase</h3>  
+  <ul>
+    <li><a href="# 1">Enlaces en HTML</a></li>
+    <li><a href="# 2">Etiquetas Principales HTML</a></li>
+    <li><a href="# 3">Pagina Web</a></li>
+  </ul>
+</body>
+</html>
